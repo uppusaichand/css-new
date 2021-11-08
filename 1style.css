@@ -1,0 +1,24 @@
+h1{
+    background-color: darksalmon;
+    padding: 50px;
+    margin: 26px;
+}
+p{
+    background-color: darkseagreen;
+    padding: 24px;
+    margin: 16px;
+}
+div{
+   width: 200px;
+   height: 200px;
+    float: right;
+    padding: 30px;
+    margin: 20px;
+}
+#img{
+    width: 150px;
+    height: 250px;
+    margin: 20px;
+    padding: 40px;
+    float: left;
+}
